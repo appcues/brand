@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="135px" height="170px" viewBox="0 0 135 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>mark</title>
-    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="logo" sketch:type="MSArtboardGroup" fill="#4BAAD3">
-            <path d="M47.4139982,110.293484 L0,170 L135,170 L135,-1.42108547e-14 L60.3273135,94.0322718 L108.18741,169.999997 L47.4139978,170 L47.4139982,110.293484 Z M47.4139982,110.293484" id="triangle" sketch:type="MSShapeGroup"></path>
-        </g>
-    </g>
-</svg>
+<svg width="135" height="170" xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><title>mark</title><path d="M47.414 110.293l-47.414 59.707h135v-170l-74.673 94.032 47.86 75.968h-60.773v-59.707zm0 0" sketch:type="MSShapeGroup" fill="#4BAAD3"/></svg>
